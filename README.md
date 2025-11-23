@@ -41,17 +41,19 @@
   </a>
 </div>
 
+
+
 ---
 
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas999z&show_icons=true&hide_title=true&count_private=true&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vikas999z&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikaschz&show_icons=true&hide_title=true&count_private=true&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vikaschz&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas999z&layout=compact&hide_title=true&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaschz&layout=compact&hide_title=true&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 
