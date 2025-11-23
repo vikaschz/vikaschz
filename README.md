@@ -56,5 +56,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaschz&layout=compact&hide_title=true&hide_border=true" height="150" alt="languages graph" />
 </div>
 
+---
+
+<h2 align="left">📈 Activity Graph</h2>
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikaschz&theme=github-dark&hide_border=true" height="250" alt="activity graph" />
+</div>
 
 
