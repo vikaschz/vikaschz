@@ -6,16 +6,6 @@
 
 ---
 
-<h2>🧩 About Me</h2>
-
-<ul>
-  <li>🌱 <strong>Currently learning:</strong> Python, Data Structures, Java, Video Editing</li>
-  <li>💡 <strong>Interests:</strong> Artificial Intelligence & Game Development</li>
-  <li>🎯 <strong>Goal:</strong> Become skilled in AI & Data Science and build real-world projects</li>
-  <li>📘 I enjoy turning ideas into <strong>simple, clean code</strong></li>
-</ul>
-
----
 
 <h2>🛠️ Skills</h2>
 
