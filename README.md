@@ -36,5 +36,5 @@ Computer Science Engineering student focused on backend development, with a long
 
 <p align="left">
   <a href="mailto:vikasch5623@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/vikas-c-47b53a37b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vikas-c-47b53a37b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
